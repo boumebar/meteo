@@ -8,7 +8,6 @@ Mon projet de météo en suivant la video de Lior Chamla [Lien](https://www.yout
 - Possibilité de changer la ville 
 - Fond d'ecran qui change en fonction du temps (Nuageux, Eclaircis ...)
 
-
 **Projet en ligne** [Lien](http://meteo.monportfolioweb.com/)
 
 
